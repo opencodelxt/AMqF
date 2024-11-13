@@ -3,6 +3,6 @@ The paper:Image Quality Assessment: Exploring Regional Heterogeneity via Respons
 # Test Demo
 Please download model weights from [[Baidu](https://pan.baidu.com/s/1BYKPzzA8K6wRLHIvqhzRQQ ),Password:bcqd] and run.
 ```
-python predict.py path/to/model/weight.pth 256 path/to/image1.jpg path/to/image2.jpg
+python test_AMqF.py path/to/model/weight.pth 256 path/to/image1.jpg path/to/image2.jpg
 python predict.py
 ```
